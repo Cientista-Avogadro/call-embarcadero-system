@@ -140,11 +140,7 @@ var serviceList = [
 
 ]
 
-let currentCall = null;
-let password1Id;
-let password2Id;
-let password3Id;
-let password4Id;
+
 
 
 resetAll()
